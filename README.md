@@ -1,4 +1,5 @@
 ### Hi there 👋
+Excited to learn, to grow and to code!
 
 <!--
 **Kerry-Jilak/Kerry-Jilak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
