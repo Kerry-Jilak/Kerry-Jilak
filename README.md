@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/ewurama"><img src="https://api.daily.dev/devcards/v2/rSiLc1lcsUTOE5JjpfLhy.png?type=default&r=60j" width="356" alt="Ewurama Aidoo's Dev Card"/></a>
 <a href="https://app.daily.dev/ewurama"><img src="./devcard.png" width="356" alt="Ewurama Aidoo's Dev Card"/></a>
